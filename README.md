@@ -1,6 +1,7 @@
 Just an upcoming programming looking to get their foot into Data Analytics. Might branch into other fields when have time...
 
-Languages I can code in:
+Languages I can code in:   
+
 • SQL
 • Python
 • R
