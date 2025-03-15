@@ -2,9 +2,7 @@ Just an upcoming programmer looking to get their foot into Data Analytics. Might
 
 Languages I can code in:   
 
-• SQL
-• Python
-• R
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,r)](https://skillicons.dev)
 
 
 I am willing to help anyone on their project that is within my languages list. 
